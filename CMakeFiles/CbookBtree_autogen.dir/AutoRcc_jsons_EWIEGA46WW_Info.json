@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/Users/gtima/Desktop/build-CbookBtree-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CbookBtree_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/gtima/Desktop/build-CbookBtree-Desktop_Qt_5_15_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/gtima/Desktop/build-CbookBtree-Desktop_Qt_5_15_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/gtima/Desktop/CbookBtree",
+	"CMAKE_SOURCE_DIR" : "C:/Users/gtima/Desktop/CbookBtree",
+	"INCLUDE_DIR" : "C:/Users/gtima/Desktop/build-CbookBtree-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CbookBtree_autogen/include",
+	"INPUTS" : [ "C:/Users/gtima/Desktop/CbookBtree/jsons_storage/local_storage.json" ],
+	"LOCK_FILE" : "C:/Users/gtima/Desktop/build-CbookBtree-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/CbookBtree_autogen.dir/AutoRcc_jsons_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "jsons" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_jsons.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/gtima/Desktop/build-CbookBtree-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/CbookBtree_autogen.dir/AutoRcc_jsons_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/gtima/Desktop/CbookBtree/jsons.qrc",
+	"VERBOSITY" : 0
+}

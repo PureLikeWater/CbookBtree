@@ -1,0 +1,95 @@
+{
+    "objects": [
+        {
+            "author": "Dostoevsky",
+            "cop_in_lib": 200,
+            "name": "Humiliated and insulted",
+            "num_page": 374,
+            "year": 1981
+        },
+        {
+            "author": "Darya Vaulina",
+            "cop_in_lib": 57,
+            "name": "English",
+            "num_page": 190,
+            "year": 2019
+        },
+        {
+            "author": "Vladston Farrera Filo",
+            "cop_in_lib": 30,
+            "name": "Computer Science",
+            "num_page": 221,
+            "year": 2020
+        },
+        {
+            "author": "Gogol",
+            "cop_in_lib": 331,
+            "name": "Dead Souls",
+            "num_page": 211,
+            "year": 1842
+        },
+        {
+            "author": "Raffaello Giovagnoli",
+            "cop_in_lib": 13,
+            "name": "Spartacus",
+            "num_page": 290,
+            "year": 1992
+        },
+        {
+            "author": "Oliver Bouden",
+            "cop_in_lib": 456,
+            "name": "Assassin's Creed Valhalla",
+            "num_page": 434,
+            "year": 2021
+        },
+        {
+            "author": "Oliver Bouden",
+            "cop_in_lib": 113,
+            "name": "Assassin's Creed Unity",
+            "num_page": 431,
+            "year": 2016
+        },
+        {
+            "author": "s",
+            "cop_in_lib": 2,
+            "name": "a",
+            "num_page": 123,
+            "year": 1144
+        },
+        {
+            "author": "f",
+            "cop_in_lib": 13,
+            "name": "g",
+            "num_page": 666,
+            "year": 1999
+        },
+        {
+            "author": "sik-k",
+            "cop_in_lib": 777,
+            "name": "k",
+            "num_page": 800,
+            "year": 1242
+        },
+        {
+            "author": "aasd",
+            "cop_in_lib": 12,
+            "name": "sss",
+            "num_page": 10,
+            "year": 1232
+        },
+        {
+            "author": "add",
+            "cop_in_lib": 10,
+            "name": "bbb",
+            "num_page": 23,
+            "year": 1233
+        },
+        {
+            "author": "qw",
+            "cop_in_lib": 33,
+            "name": "de",
+            "num_page": 222,
+            "year": 2222
+        }
+    ]
+}

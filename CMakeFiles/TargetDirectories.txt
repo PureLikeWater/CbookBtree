@@ -1,0 +1,5 @@
+C:/Users/gtima/Desktop/build-CbookBtree-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/CbookBtree.dir
+C:/Users/gtima/Desktop/build-CbookBtree-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/gtima/Desktop/build-CbookBtree-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/gtima/Desktop/build-CbookBtree-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/CbookBtree_autogen_timestamp_deps.dir
+C:/Users/gtima/Desktop/build-CbookBtree-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/CbookBtree_autogen.dir
